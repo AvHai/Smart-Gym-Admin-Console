@@ -1,6 +1,7 @@
-🏋️‍♂️ Smart Gym Admin Console
-A modern, AI-powered admin dashboard for smart gym management. Built with MERN stack and integrated Flask API to provide seamless operations, advanced analytics, and intelligent automation.
-
+### 
+**🏋️‍♂️ Smart Gym Admin Console
+A modern, AI-powered admin dashboard for smart gym management. Built with MERN stack and integrated Flask API to provide seamless operations, advanced analytics, and intelligent automation.**
+###
 🚀 Features
 ✅ AI-Powered Member Insights – Predict member churn and suggest retention strategies using ML models.
 ✅ Smart Equipment Monitoring – AI predicts equipment maintenance needs to avoid breakdowns.
